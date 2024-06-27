@@ -4,3 +4,8 @@ bower_components/
 
 build/
 dist/
+diff
+.idea/*
+src/**.js
+coverage
+
