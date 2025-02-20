@@ -1,0 +1,1 @@
+const RestCall = (apiF: any) => {}
